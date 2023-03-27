@@ -19,3 +19,10 @@ de um carrosel para versão mobile da aplicação.
 # Como rodar na sua maquina? 
 <p> Como a aplicação é apenas para front-end, so é necessario ir na pagina index.html e rodar o projeto na sua localhost utilizando live-server ou algum derivado dele  </p>
 
+
+# Imagens: 
+
+<img src="./imagens/axon.png">
+<img src="./imagens/quemsomos.png">
+<img src="./imagens/time.png">
+
